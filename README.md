@@ -1,7 +1,8 @@
 # ecskurs  - https://github.com/nesicn/ecskurs
+
 ödev 1: 
 https://nesicn.github.io/
------------------------------------------------
+
 ödev 1: [Liste Kayıt Uygulaması]
 https://colab.research.google.com/drive/1cJ4rL4YgdmWkHgGveYesaB0XXcekAnsh?usp=sharing
 
