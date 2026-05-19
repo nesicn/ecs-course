@@ -1,4 +1,4 @@
-# ecs-course - https://github.com/nesicn/ecskurs
+# ecs-course - https://github.com/nesicn/ecs-course
 
 ***HAFTA-1 DERS-1*** ödev 1: 
 https://nesicn.github.io/
