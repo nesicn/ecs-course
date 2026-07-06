@@ -1,3 +1,14 @@
+## 📂 Müfredat ve Çalışmalar
+
+Dönem boyunca işlenen derslerin not defterlerine ve ilgili hafta ödevlerinin kaynak kodlarına aşağıdaki tablodan hızlıca erişebilirsiniz.
+
+| Hafta | Tür | Konu Başlığı | Link |
+| :---: | :--- | :--- | :--- |
+| **Hafta 1** | 📘 Ders 2<br>📝 Ödev | Python Temelleri<br>Öğrenci Kayıt Sistemi (Liste Kayıt Uygulaması) | [📒 Colab Not Defteri](LİNK_BURAYA)<br>[💻 Proje Sayfası](LİNK_BURAYA) |
+| **Hafta 2** | 📘 Ders 1<br>📘 Ders 2 | Python Temelleri (Devam)<br>NumPy Kütüphanesine Giriş (Numpy-1) | [📒 Colab Not Defteri](LİNK_BURAYA)<br>[📊 Analiz Not Defteri](LİNK_BURAYA) |
+
+
+
 # ecs-course - https://github.com/nesicn/ecs-course
 
 ***HAFTA-1 DERS-1*** 
