@@ -32,7 +32,8 @@ numpy - pandas:
 https://colab.research.google.com/drive/1fHLHBmg7K0CA928A4tC0aIGT1hPQ5k5o?usp=sharing
 
 ***HAFTA-3 ÖDEV-1*** 
-google ai studio app:
+google ai studio app: 
+https://github.com/nesicn/Synchrony_focus_room
 
 
 ***HAFTA-3 DERS-2*** 
@@ -46,10 +47,19 @@ Tips veri seti - Restoran Bahşiş Analizi:
 https://colab.research.google.com/drive/18h5cv3k3Ob2tYOYvRjR8Gp8IALqcT-iw?usp=sharing
 
 ***HAFTA-4 ÖDEV-1*** 
-google ai studio app: https://github.com/nesicn/Synchrony_focus_room
+google canvas: https: https://share.gemini.google/1vdpilKXZ4q8
 
 
 ***HAFTA-4 DERS-2*** 
 Titanic veri analizi: 
+
+__________________________________________________________________________________
+
+***HAFTA-5 DERS-1*** 
+Titanic Veri Analizi ve Modelleme:
+
+
+***HAFTA-5 DERS-2***
+TM Model Oluşturma ve Deploy (Web, Python, Android):
 
 
