@@ -78,5 +78,12 @@
       <td>Titanic Veri Analizi</td>
       <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">https://www.kaggle.com/code/nesicn/titanic-veri-analizi</a></td>
     </tr>
+    <!-- HAFTA 8 -->
+    <tr>
+      <td rowspan="1" align="center" valign="middle"><b>Hafta 8</b></td>
+      <td>Ders 1</td>
+      <td>Müşteri Kayıp Analizi (Churn)</td>
+      <td><a href="https://colab.research.google.com/drive/1TuWTE-XI9oE4gUc6199-_XMo_-qJc-0H?usp=sharing">https://colab.research.google.com/drive/1TuWTE-XI9oE4gUc6199-_XMo_-qJc-0H?usp=sharing</a></td>
+    </tr>
   </tbody>
 </table>
