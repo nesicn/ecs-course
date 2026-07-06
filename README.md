@@ -86,7 +86,7 @@
       <td><a href=""> </a></td>
     </tr>
     <tr>
-      <td>Ders 1</td>
+      <td>Ders 2</td>
       <td>TM Model Oluşturma ve Deploy (Web, Python, Android)</td>
       <td><a href=""> </a></td>
     </tr>
@@ -94,12 +94,50 @@
     <tr>
       <td rowspan="2" align="center" valign="middle"><b>Hafta 6</b></td>
       <td>Yarışma</td>
-      <td>TTitanik Yarışması Skor Değerlendirme</td>
+      <td>Titanik Yarışması Skor Değerlendirme</td>
       <td><a href=""> </a></td>
     </tr>
     <tr>
       <td>Ders 2</td>
       <td>İkinci El Araç Fiyat Tahmin</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <!-- HAFTA 7 -->
+    <tr>
+      <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
+      <td>Ders 1</td>
+      <td>İkinci El Araç Tahmin Model Dosyası (Pipeline)</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ödev 1</td>
+      <td>2. El Araç Fiyat Tahmin Sitesi Deployment</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Gradio ile Basit Form Oluşturma & Google AGY</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
+      <td>Ders 3</td>
+      <td>Covid-Yarışan Grafikler</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ödev 2</td>
+      <td>Nufus Değ. Grafiği</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ders 3-2 NB</td>
+      <td>Farklı Platformlardan Veri Çekmek</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ders 3-3 NB</td>
+      <td>Bing Arama Motoru ile Görsel indirmek</td>
       <td><a href=""> </a></td>
     </tr>
     <!-- HAFTA 8 -->
