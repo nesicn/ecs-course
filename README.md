@@ -78,6 +78,30 @@
       <td>Titanic Veri Analizi</td>
       <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">https://www.kaggle.com/code/nesicn/titanic-veri-analizi</a></td>
     </tr>
+        <!-- HAFTA 5 -->
+    <tr>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 5</b></td>
+      <td>Ders 1</td>
+      <td>Titanic Veri Analizi ve Modelleme</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ders 1</td>
+      <td>TM Model Oluşturma ve Deploy (Web, Python, Android)</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <!-- HAFTA 6 -->
+    <tr>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 6</b></td>
+      <td>Yarışma</td>
+      <td>TTitanik Yarışması Skor Değerlendirme</td>
+      <td><a href=""> </a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>İkinci El Araç Fiyat Tahmin</td>
+      <td><a href=""> </a></td>
+    </tr>
     <!-- HAFTA 8 -->
     <tr>
       <td rowspan="1" align="center" valign="middle"><b>Hafta 8</b></td>
