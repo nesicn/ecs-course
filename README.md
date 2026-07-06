@@ -63,7 +63,7 @@
     </tr>
     <!-- HAFTA 4 -->
     <tr>
-      <td rowspan="2" align="center" valign="middle"><b>Hafta 4</b></td>
+      <td rowspan="3" align="center" valign="middle"><b>Hafta 4</b></td>
       <td>Uygulama 1</td>
       <td>Tips Veri Seti - Restoran Bahşiş Analizi</td>
       <td><a href="https://colab.research.google.com/drive/18h5cv3k3Ob2tYOYvRjR8Gp8IALqcT-iw?usp=sharing">https://colab.research.google.com/drive/18h5cv3k3Ob2tYOYvRjR8Gp8IALqcT-iw?usp=sharing</a></td>
