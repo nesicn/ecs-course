@@ -33,7 +33,7 @@ https://colab.research.google.com/drive/1fHLHBmg7K0CA928A4tC0aIGT1hPQ5k5o?usp=sh
 
 ***HAFTA-3 ÖDEV-1*** 
 google ai studio app: 
-https://github.com/nesicn/Synchrony_focus_room
+https://nesicn.github.io/Synchrony_focus_room/
 
 
 ***HAFTA-3 DERS-2*** 
@@ -47,7 +47,7 @@ Tips veri seti - Restoran Bahşiş Analizi:
 https://colab.research.google.com/drive/18h5cv3k3Ob2tYOYvRjR8Gp8IALqcT-iw?usp=sharing
 
 ***HAFTA-4 ÖDEV-1*** 
-google canvas: https: https://share.gemini.google/1vdpilKXZ4q8
+google canvas: https://share.gemini.google/1vdpilKXZ4q8
 
 
 ***HAFTA-4 DERS-2*** 
