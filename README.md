@@ -120,7 +120,6 @@
       <td><a href=""> </a></td>
     </tr>
     <tr>
-      <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
       <td>Ders 3</td>
       <td>Covid-Yarışan Grafikler</td>
       <td><a href=""> </a></td>
