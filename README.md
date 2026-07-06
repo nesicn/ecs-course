@@ -73,5 +73,10 @@
       <td>Google Canvas</td>
       <td><a href="https://share.gemini.google/1vdpilKXZ4q8">https://share.gemini.google/1vdpilKXZ4q8</a></td>
     </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Titanic Veri Analizi</td>
+      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">https://www.kaggle.com/code/nesicn/titanic-veri-analizi</a></td>
+    </tr>
   </tbody>
 </table>
