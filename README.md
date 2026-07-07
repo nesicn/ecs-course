@@ -14,7 +14,7 @@
       <td rowspan="3" align="center" valign="middle"><b>Hafta 1</b></td>
       <td>Ders 1</td>
       <td>Ödev 1</td>
-      <td><a href="https://nesicn.github.io/">Link</a></td>
+      <td><a href="https://nesicn.github.io/">Website</a></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>Ders 2</td>
