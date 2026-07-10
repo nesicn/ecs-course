@@ -89,12 +89,12 @@
       <td rowspan="2" align="center" valign="middle"><b>Hafta 6</b></td>
       <td>Yarışma</td>
       <td>Titanik Yarışması Skor Değerlendirme</td>
-      <td><a href="#"></a></td>
+      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
     </tr>
     <tr style="background-color: #f2f2f2;">
       <td>Ders 2</td>
       <td>İkinci El Araç Fiyat Tahmin</td>
-      <td><a href="#"></a></td>
+      <td><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr style="background-color: #ffffff;">
       <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
