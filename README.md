@@ -128,5 +128,10 @@
       <td>Müşteri Kayıp Analizi (Churn)</td>
       <td><a href="https://colab.research.google.com/drive/1TuWTE-XI9oE4gUc6199-_XMo_-qJc-0H?usp=sharing">Colab Notebook</a></td>
     </tr>
+     <tr>
+      <td>Ders 2</td>
+      <td>Adidas Zaman Serisi Analizi</td>
+      <td><a href="https://colab.research.google.com/drive/1yaW0RouOt45UphljCRckgFi4TI29lE13?usp=sharing">Colab Notebook</a></td>
+    </tr>
   </tbody>
 </table>
