@@ -75,16 +75,36 @@
       <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>Hafta 5</b></td>
-      <td>Ders 1<br><br>Ders 2</td>
-      <td>Titanic Veri Analizi ve Modelleme<br><br>TM Model Oluşturma ve Deploy (Web, Python, Android)</td>
-      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a><br><br><a href="https://colab.research.google.com/drive/1VvEBe0u4nIdbUEVkM_TtbbH5IkVhSQ2g?usp=sharing">Colab Notebook</a></td>
+      <td rowspan="3" align="center" valign="middle"><b>Hafta 5</b></td>
+      <td>Ders 1</td>
+      <td>Titanic Veri Analizi ve Modelleme</td>
+      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>Hafta 6</b></td>
-      <td>Yarışma<br><br>Ders 2</td>
-      <td>Titanik Yarışması Skor Değerlendirme<br><br>İkinci El Araç Fiyat Tahmin</td>
-      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a><br><br><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
+      <td>Ders 2</td>
+      <td>TM Model Oluşturma</td>
+      <td><a href="https://colab.research.google.com/drive/1VvEBe0u4nIdbUEVkM_TtbbH5IkVhSQ2g?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Model Deploy (Web, Python, Android)</td>
+      <td><a href="https://colab.research.google.com/drive/1VvEBe0u4nIdbUEVkM_TtbbH5IkVhSQ2g?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center" valign="middle"><b>Hafta 6</b></td>
+      <td>Yarışma</td>
+      <td>Titanik Yarışması Skor Değerlendirme</td>
+      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>İkinci El Araç Analizi</td>
+      <td><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Fiyat Tahmin Modellemesi</td>
+      <td><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr>
       <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
@@ -123,12 +143,12 @@
       <td><a href="https://colab.research.google.com/drive/1qnqpoNK7GtugD-OX2SisITi3Eh3eWBsR?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><b>Hafta 8</b></td>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 8</b></td>
       <td>Ders 1</td>
       <td>Müşteri Kayıp Analizi (Churn)</td>
       <td><a href="https://colab.research.google.com/drive/1TuWTE-XI9oE4gUc6199-_XMo_-qJc-0H?usp=sharing">Colab Notebook</a></td>
     </tr>
-     <tr>
+    <tr>
       <td>Ders 2</td>
       <td>Adidas Zaman Serisi Analizi</td>
       <td><a href="https://colab.research.google.com/drive/1yaW0RouOt45UphljCRckgFi4TI29lE13?usp=sharing">Colab Notebook</a></td>
