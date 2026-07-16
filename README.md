@@ -51,7 +51,7 @@
     <tr>
       <td>Ödev 1</td>
       <td>Google AI Studio App</td>
-      <td><a href="https://nesicn.github.io/Synchrony_focus_room/">Website</a></td>
+      <td><a href="https://nesicn.github.io/neon-rush/">Website</a></td>
     </tr>
     <tr>
       <td>Ders 2</td>
