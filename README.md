@@ -10,6 +10,7 @@
     </tr>
   </thead>
   <tbody>
+    <!-- HAFTA 1 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 1</b></td>
       <td>Ders 1</td>
@@ -26,6 +27,7 @@
       <td>Python Temelleri</td>
       <td><a href="https://colab.research.google.com/drive/1kcz7XS3UIe45dC2f7cv912EhhCEm1sRU?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 2 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 2</b></td>
       <td>Ders 1</td>
@@ -42,6 +44,7 @@
       <td>NumPy-1</td>
       <td><a href="https://colab.research.google.com/drive/1ZzyGVZ6ks504rrx8pJU6JIlbt06DfIl3?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 3 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 3</b></td>
       <td>Ders 1</td>
@@ -58,6 +61,7 @@
       <td>Pandas Devam</td>
       <td><a href="https://colab.research.google.com/drive/16vSXOKd9L9QVxcwSMkiSYHZqU1yIiDkf?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 4 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 4</b></td>
       <td>Uygulama 1</td>
@@ -74,6 +78,7 @@
       <td>Titanic Veri Analizi</td>
       <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
     </tr>
+    <!-- HAFTA 5 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 5</b></td>
       <td>Ders 1</td>
@@ -90,6 +95,7 @@
       <td>Model Deploy (Web, Python, Android)</td>
       <td><a href="https://colab.research.google.com/drive/1VvEBe0u4nIdbUEVkM_TtbbH5IkVhSQ2g?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 6 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 6</b></td>
       <td>Yarışma</td>
@@ -106,6 +112,7 @@
       <td>Fiyat Tahmin Modellemesi</td>
       <td><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 7 -->
     <tr>
       <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
       <td>Ders 1</td>
@@ -142,8 +149,9 @@
       <td>Bing Arama Motoru ile Görsel indirmek</td>
       <td><a href="https://colab.research.google.com/drive/1qnqpoNK7GtugD-OX2SisITi3Eh3eWBsR?usp=sharing">Colab Notebook</a></td>
     </tr>
+    <!-- HAFTA 8 -->
     <tr>
-      <td rowspan="2" align="center" valign="middle"><b>Hafta 8</b></td>
+      <td rowspan="3" align="center" valign="middle"><b>Hafta 8</b></td>
       <td>Ders 1</td>
       <td>Müşteri Kayıp Analizi (Churn)</td>
       <td><a href="https://colab.research.google.com/drive/1TuWTE-XI9oE4gUc6199-_XMo_-qJc-0H?usp=sharing">Colab Notebook</a></td>
@@ -152,6 +160,45 @@
       <td>Ders 2</td>
       <td>Adidas Zaman Serisi Analizi</td>
       <td><a href="https://colab.research.google.com/drive/1yaW0RouOt45UphljCRckgFi4TI29lE13?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 3</td>
+      <td>Film Öneri Sistemi</td>
+      <td><a href="https://colab.research.google.com/drive/1_gwoZcq9GkjQnLejZ5dtYFn62_auoNNT?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <!-- HAFTA 9 -->
+    <tr>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 9</b></td>
+      <td>Ders 1-2</td>
+      <td>İçerik Bazlı Öneri Arayüz</td>
+      <td><a href="https://colab.research.google.com/drive/1_gwoZcq9GkjQnLejZ5dtYFn62_auoNNT?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 3</td>
+      <td>HF Model Çekme ve Kullanımı</td>
+      <td></td>
+    </tr>
+    <!-- HAFTA 10 -->
+    <tr>
+      <td rowspan="4" align="center" valign="middle"><b>Hafta 10</b></td>
+      <td>Ders 1</td>
+      <td>HF Duygu Analizi Modeli</td>
+      <td><a href="https://colab.research.google.com/drive/1oB2OizRSteeX2kIP4HOQ7C_mc-8hPd1N?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2-1</td>
+      <td>Gemini API Kullanımı</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ders 2-2</td>
+      <td>Gemini API Kullanımı-2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ders 3</td>
+      <td>Haber Özetleme - HF Model</td>
+      <td><a href="https://colab.research.google.com/drive/1cn1WUHHp-EoAEVoZ_jdWvU1HEa5N228f?usp=sharing">Colab Notebook</a></td>
     </tr>
   </tbody>
 </table>
