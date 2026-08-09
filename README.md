@@ -176,7 +176,7 @@
     <tr>
       <td>Ders 3</td>
       <td>HF Model Çekme ve Kullanımı</td>
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1y13OM60v8iGjQut_Ozk9Y7O05SJ_Lw-n#scrollTo=iaFLu-BZFXEs">Colab Notebook</a></td>
     </tr>
     <!-- HAFTA 10 -->
     <tr>
@@ -188,17 +188,46 @@
     <tr>
       <td>Ders 2-1</td>
       <td>Gemini API Kullanımı</td>
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1_tcshmyfTdNqPb0x6nrVUl_oax7jfNoz#scrollTo=KMf3-DMSMCX0">Colab Notebook</a></td>
     </tr>
     <tr>
       <td>Ders 2-2</td>
       <td>Gemini API Kullanımı-2</td>
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1Vmvltbb3sYcnPGYbPDtEJzaI_oQMbNsA#scrollTo=HlSxQZ22PtSo">Colab Notebook</a></td>
     </tr>
     <tr>
       <td>Ders 3</td>
       <td>Haber Özetleme - HF Model</td>
       <td><a href="https://colab.research.google.com/drive/1cn1WUHHp-EoAEVoZ_jdWvU1HEa5N228f?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <!-- HAFTA 11 -->
+    <tr>
+      <td rowspan="3" align="center" valign="middle"><b>Hafta 11</b></td>
+      <td>Ders 1</td>
+      <td>Open-CV</td>
+      <td><a href="https://colab.research.google.com/drive/1X5jXGKwqib6id2mqwoXE5FFzVLhtcEdj?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Vibe Coding</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Ders 3</td>
+      <td>Derin Öğrenme-Tek Nöron</td>
+      <td><a href="https://colab.research.google.com/drive/1HQovUJhTMQ2esfAAPIpL0eM89Yy3ct5i?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <!-- HAFTA 12 -->
+    <tr>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 12</b></td>
+      <td>Ders 1</td>
+      <td>Derin Öğrenme-MNIST-DL</td>
+      <td><a href="https://colab.research.google.com/drive/13lJmiGJUJRVccrVf1RbEqRCeSG9lR-yN?usp=sharing">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <td>Ders 2</td>
+      <td>Derin Öğrenme-CIFAR-CNN</td>
+      <td><a href="https://colab.research.google.com/drive/1UWZcvS8mBKcNsc_qyppv7SBLd3rcell4#scrollTo=Q_8PNk3La4U8">Colab Notebook</a></td>
     </tr>
   </tbody>
 </table>
