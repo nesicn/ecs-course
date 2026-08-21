@@ -202,15 +202,10 @@
     </tr>
     <!-- HAFTA 11 -->
     <tr>
-      <td rowspan="3" align="center" valign="middle"><b>Hafta 11</b></td>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 11</b></td>
       <td>Ders 1</td>
       <td>Open-CV</td>
       <td><a href="https://colab.research.google.com/drive/1X5jXGKwqib6id2mqwoXE5FFzVLhtcEdj?usp=sharing">Colab Notebook</a></td>
-    </tr>
-    <tr>
-      <td>Ders 2</td>
-      <td>Vibe Coding</td>
-      <td></td>
     </tr>
     <tr>
       <td>Ders 3</td>
