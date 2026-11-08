@@ -12,36 +12,31 @@
   <tbody>
     <!-- HAFTA 1 -->
     <tr>
-      <td rowspan="3" align="center" valign="middle"><b>Hafta 1</b></td>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 1</b></td>
       <td>Ders 1</td>
-      <td>Ödev 1</td>
-      <td><a href="https://nesicn.github.io/">Website</a></td>
-    </tr>
-    <tr>
-      <td>Ders 2</td>
-      <td>Ödev 1: [Liste Kayıt Uygulaması]</td>
+      <td>Liste Kayıt Uygulaması</td>
       <td><a href="https://colab.research.google.com/drive/1cJ4rL4YgdmWkHgGveYesaB0XXcekAnsh?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr>
       <td>Ders 2</td>
-      <td>Python Temelleri</td>
+      <td>Python temelleri 1</td>
       <td><a href="https://colab.research.google.com/drive/1kcz7XS3UIe45dC2f7cv912EhhCEm1sRU?usp=sharing">Colab Notebook</a></td>
     </tr>
     <!-- HAFTA 2 -->
     <tr>
       <td rowspan="3" align="center" valign="middle"><b>Hafta 2</b></td>
       <td>Ders 1</td>
-      <td>Python Temelleri Devam</td>
+      <td>Python temelleri 2</td>
       <td><a href="https://colab.research.google.com/drive/10UB5n7BlITyUVh76LQ_eFiHJtYX3rGHU?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr>
       <td>Ders 2</td>
-      <td>Python Temelleri Devam</td>
+      <td>Python temelleri 3</td>
       <td><a href="https://colab.research.google.com/drive/1hKizg_62zw68tKuSG32VSeQvXygQ7Lay?usp=sharing">Colab Notebook</a></td>
     </tr>
     <tr>
       <td>Ders 2</td>
-      <td>NumPy-1</td>
+      <td>NumPy</td>
       <td><a href="https://colab.research.google.com/drive/1ZzyGVZ6ks504rrx8pJU6JIlbt06DfIl3?usp=sharing">Colab Notebook</a></td>
     </tr>
     <!-- HAFTA 3 -->
@@ -58,7 +53,7 @@
     </tr>
     <tr>
       <td>Ders 2</td>
-      <td>Pandas Devam</td>
+      <td>Pandas 2</td>
       <td><a href="https://colab.research.google.com/drive/16vSXOKd9L9QVxcwSMkiSYHZqU1yIiDkf?usp=sharing">Colab Notebook</a></td>
     </tr>
     <!-- HAFTA 4 -->
@@ -97,12 +92,7 @@
     </tr>
     <!-- HAFTA 6 -->
     <tr>
-      <td rowspan="3" align="center" valign="middle"><b>Hafta 6</b></td>
-      <td>Yarışma</td>
-      <td>Titanik Yarışması Skor Değerlendirme</td>
-      <td><a href="https://www.kaggle.com/code/nesicn/titanic-veri-analizi">Kaggle Notebook</a></td>
-    </tr>
-    <tr>
+      <td rowspan="2" align="center" valign="middle"><b>Hafta 6</b></td>
       <td>Ders 2</td>
       <td>İkinci El Araç Analizi</td>
       <td><a href="https://colab.research.google.com/drive/1WpoNUU8-qb16V9L24OuX_maFAceM-Km0?usp=sharing">Colab Notebook</a></td>
@@ -114,7 +104,7 @@
     </tr>
     <!-- HAFTA 7 -->
     <tr>
-      <td rowspan="7" align="center" valign="middle"><b>Hafta 7</b></td>
+      <td rowspan="6" align="center" valign="middle"><b>Hafta 7</b></td>
       <td>Ders 1</td>
       <td>İkinci El Araç Tahmin Model Dosyası (Pipeline)</td>
       <td><a href="https://github.com/nesicn/ecs-course/blob/main/model/car_pipe.pkl">car_pipe.pkl</a></td>
@@ -133,11 +123,6 @@
       <td>Ders 3</td>
       <td>Covid-Yarışan Grafikler</td>
       <td><a href="https://colab.research.google.com/drive/1FkD7Q0aV0I_07bvTCDDGliJZeDH1SItw?usp=sharing">Colab Notebook</a></td>
-    </tr>
-    <tr>
-      <td>Ödev 2</td>
-      <td>Nufus Değ. Grafiği</td>
-      <td><a href="https://colab.research.google.com/drive/1FkD7Q0aV0I_07bvTCDDGliJZeDH1SItw?usp=sharing">Colab Notebook</a> (nufüs değ. grafik ödevi en altta)</td>
     </tr>
     <tr>
       <td>Ders 3-2 NB</td>
